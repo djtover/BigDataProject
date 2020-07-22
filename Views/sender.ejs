@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Embedded Style Sampl</title>
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <!-- <style>
+        table {
+            background-color: red;
+        }
+    </style> -->
+
     <!--
         https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088
         https://www.sitepoint.com/using-redis-node-js/
@@ -26,22 +34,20 @@
             var cGender = tr.insertCell(4);
             var cAge = tr.insertCell(5);
             var cEnd = tr.insertCell(6);
-            
 
-    
+   
             const date = Date.now();
             const dateTimeFormat = new Intl.DateTimeFormat('en', {year: 'numeric', month:'short', day:'2-digit', hour:'numeric', minute:'numeric'})
             const [{ value: month }, , { value: day }, , { value: year }, , { value: hour }, , { value: minute }] = dateTimeFormat.formatToParts(date)
 
 
             cStart.innerHTML = "<div id = '" + date + "''>" +  `${day}-${month}-${year}, ${hour}:${minute}` + "</div>";
-            cCity.innerHTML = "<select><option value='Jerusalem'> Jeru </option> </select>";
-            cTopic.innerHTML = "<select><option value='Medical'> Med </option> </select>";
-            cLanguage.innerHTML = "<select><option value='Hebrew'> Heb </option> </select>";
+            cCity.innerHTML = "<select><option value='Jerusalem'> ירושלים </option> <option value='Tel Aviv'> תל אביב </option> <option value='Beer Sheva'> באר שבע</option></select>";
+            cTopic.innerHTML = "<select><option value='Medication'> תרופות </option> <option value='Food'> מזון </option> <option value='Water'> מים </option> <option value='Protection'> מיגון </option> <option value='Information'> מידע</option> <option value='Evacuation'> פינוי</option></select>";
+            cLanguage.innerHTML = "<select><option value='Hebrew'> עברית </option> <option value='English'> אנגלית</option>  <option value='Amharic'> אמהרית </option> <option value='Russian'> רוסית</option> <option value='Thai'> תאילנדית </option></select>";
             cAge.innerHTML = "<input type='number' min='0' max='120'/>";
-            cGender.innerHTML = "<select><option value='Male'> M </option> </select>";
+            cGender.innerHTML = "<select><option value='Male'> זכר</option> <option value='Female'> נקבה </option></select>";
             cEnd.innerHTML = "<button onclick='reportEndCall(this.parentNode.parentNode)'> End </button>";
-            // cStart.innerHTML = "1";
     
         }
         function reportEndCall(row){
@@ -70,16 +76,21 @@
         }
 
     </script>
+    
 </head>
 <body  onload="initSocket()">
     Total Waiting Calls:
-    <input type="number" id ="total" min="0" max="200" value="5">
+    <input type="number" id ="total" min="0" max="200" value="5" >
     <input type="button" value="Set" onclick="sendMessage(total.value)"/>
+    <select name="status" id="situation"> <option value="Emergency"> חירום</option>
+                                          <option value="Routine">שגרת חירום</option>
+                                          <option value="Calm">רגיעה</option></select>
     <hr>
     <input type="button" value = "Answer Call" onclick="startConv()" />
     <!-- <button onclick="getTime()">What is the time?</button> -->
     <p id="demo"></p>
-    <table id = "openConversations" border="1" style="background-color: violet;">
+    <table id = "openConversations" border="1">
+       <thead>
         <tr>
             <th>Start Time </th>
             <th> City </th>
@@ -89,6 +100,8 @@
             <th> Age </th>
             <th>End</th>
         </tr>
+        </thead>
+        <tbody></tbody>
     </table> 
 </body>
 </html>

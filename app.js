@@ -5,7 +5,7 @@ const io = require("socket.io")(server);
 
 const hostname = '127.0.0.1';
 const port = 3000;
-
+app.set('views', './Views');
 app.set('view engine', 'ejs');
 app.use(express.static("public"));
 

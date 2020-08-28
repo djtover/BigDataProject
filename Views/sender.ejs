@@ -29,7 +29,10 @@
             var cLanguage = tr.insertCell(3);
             var cGender = tr.insertCell(4);
             var cAge = tr.insertCell(5);
-            var cEnd = tr.insertCell(6);
+            var inputSituation = document.getElementById('situation').value;
+            var cSituation = tr.insertCell(6);
+            var cEnd = tr.insertCell(7);
+           
 
    
             const date = Date.now();
@@ -44,6 +47,7 @@
             cAge.innerHTML = "<input type='number' min='0' max='120'/>";
             cGender.innerHTML = "<select><option value='Male'> זכר</option> <option value='Female'> נקבה </option></select>";
             cEnd.innerHTML = "<button onclick='reportEndCall(this.parentNode.parentNode)'> End </button>";
+            cSituation.innerHTML= "<div>"+ inputSituation+"</div>";
     
         }
         function reportEndCall(row){
@@ -58,6 +62,7 @@
             message.language = row.cells[3].getElementsByTagName("select")[0].value;
             message.gender = row.cells[4].getElementsByTagName("select")[0].value;
             message.age = (row.cells[5].getElementsByTagName("input")[0].value || 18);
+            message.situation = row.cells[6].innerText;
             message.totalTime = (parseInt(Date.now()) - parseInt(message.id))/1000;
            
             socket.emit("callDetails",message);
@@ -94,6 +99,7 @@
             <th> Language </th>
             <th>  Gender </th>
             <th> Age </th>
+            <th>Situation </th>
             <th>End</th>
         </tr>
         </thead>

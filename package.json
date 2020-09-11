@@ -4,18 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app"
+    "test": " nodemon MongoDBserver",
+    "start": " nodemon app"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bigml": "^1.22.2",
     "body-parser": "^1.19.0",
     "chart.js": "^2.9.3",
     "ejs": "^3.1.3",
     "express": "^4.17.1",
+    "mongoose": "^5.10.2",
+    "node-rdkafka": "^2.9.1",
     "nodemon": "^2.0.4",
     "socket-io": "^1.0.0",
     "socket.io": "^2.3.0"
-  }
+  },
+  "devDependencies": {}
 }

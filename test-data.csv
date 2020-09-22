@@ -1,0 +1,125 @@
+.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600614654238,Jerusalem,Medication,Hebrew,Male,18,Emergency,0.744.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600632504381,Jerusalem,Medication,Hebrew,Male,55,Emergency,2.651.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707005630,Jerusalem,Medication,Hebrew,Male,18,Emergency,5.432.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707008385,Jerusalem,Medication,Hebrew,Male,18,Emergency,2.841.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707008899,Jerusalem,Medication,Hebrew,Male,18,Emergency,2.511.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707009181,Jerusalem,Medication,Hebrew,Male,18,Emergency,2.407.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707009511,Jerusalem,Medication,Hebrew,Male,18,Emergency,2.269.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707009915,Jerusalem,Medication,Hebrew,Male,18,Emergency,2.113.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707012943,Jerusalem,Medication,Hebrew,Male,18,Emergency,158.675.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707013313,Jerusalem,Medication,Hebrew,Male,18,Emergency,216.535.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707013470,Jerusalem,Medication,Hebrew,Male,18,Emergency,216.53.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707013645,Jerusalem,Medication,Hebrew,Male,18,Emergency,216.517.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707013799,Jerusalem,Medication,Hebrew,Male,18,Emergency,216.519.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707013955,Jerusalem,Medication,Hebrew,Male,18,Emergency,216.533.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707014119,Jerusalem,Medication,Hebrew,Male,18,Emergency,216.512.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707531634,Jerusalem,Medication,Hebrew,Male,45,Emergency,13.438.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707540680,Jerusalem,Medication,Hebrew,Male,55,Emergency,14.131.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707541502,Jerusalem,Medication,Hebrew,Male,18,Emergency,28.075.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707541698,Jerusalem,Medication,Hebrew,Male,18,Emergency,32.641.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707573615,Jerusalem,Medication,Hebrew,Male,18,Emergency,25.629.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707597587,Jerusalem,Medication,Hebrew,Male,18,Emergency,1.809.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707597755,Jerusalem,Medication,Hebrew,Male,18,Emergency,1.805.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600707573426,Jerusalem,Medication,Hebrew,Male,18,Emergency,27.062.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600708644691,Beer Sheva,Water,Russian,Female,65,Emergency,81.808.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600708644241,Beer Sheva,Water,Amharic,Male,55,Emergency,84.987.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600708643991,Tel Aviv,Information,Hebrew,Female,54,Emergency,86.262.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600708643733,Jerusalem,Evacuation,Hebrew,Female,45,Emergency,87.634.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600708643522,Jerusalem,Protection,English,Male,34,Emergency,89.001.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600708793051,Jerusalem,Medication,Hebrew,Male,18,Emergency,0.914.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600708793228,Jerusalem,Medication,Hebrew,Male,18,Emergency,0.91.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600716509634,Jerusalem,Medication,Hebrew,Male,18,Emergency,1.649.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717014055,Beer Sheva,Information,English,Female,129,Emergency,12.862.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717200181,Beer Sheva,Water,Amharic,Male,30,Emergency,62.058.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717200711,Tel Aviv,Evacuation,Hebrew,Female,34,Emergency,70.568.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717201052,Tel Aviv,Food,English,Female,24,Emergency,79.827.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717201288,Tel Aviv,Medication,Russian,Male,80,Emergency,90.381.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717201530,Jerusalem,Protection,English,Male,61,Emergency,98.586.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717201774,Beer Sheva,Medication,Amharic,Female,65,Emergency,106.978.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717202015,Tel Aviv,Food,Hebrew,Male,56,Emergency,113.68.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717204453,Tel Aviv,Medication,Thai,Male,54,Emergency,119.061.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717204712,Jerusalem,Evacuation,Hebrew,Male,45,Emergency,132.493.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717204992,Beer Sheva,Information,Russian,Male,56,Emergency,138.199.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717457187,Tel Aviv,Food,English,Male,45,Emergency,34.402.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717456189,Tel Aviv,Water,Hebrew,Female,34,Emergency,45.582.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717455757,Tel Aviv,Protection,arabic,Female,35,Emergency,61.105.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717455581,Jerusalem,Information,Hebrew,Male,65,Emergency,68.444.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717454353,Tel Aviv,Medication,Hebrew,Male,45,Emergency,75.899.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717453365,Tel Aviv,Water,Hebrew,Male,68,Emergency,87.47.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717452875,Jerusalem,Information,Amharic,Female,23,Emergency,100.678.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717452417,Beer Sheva,Protection,Amharic,Male,65,Emergency,110.837.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717452052,Jerusalem,Medication,Hebrew,Male,22,Emergency,113.654.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717451693,Beer Sheva,Water,Hebrew,Male,23,Emergency,121.903.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717618715,Tel Aviv,Evacuation,English,Male,87,Emergency,41.339.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717612870,Tel Aviv,Water,Amharic,Female,65,Emergency,60.901.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717612332,Tel Aviv,Evacuation,Hebrew,Male,43,Emergency,73.614.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717611618,Tel Aviv,Protection,Russian,Male,54,Emergency,90.039.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717611100,Tel Aviv,Protection,Amharic,Male,37,Emergency,99.776.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717610716,Jerusalem,Medication,Hebrew,Male,27,Emergency,102.114.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717610387,Beer Sheva,Food,Amharic,Male,23,Emergency,112.51.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717610088,Tel Aviv,Protection,Hebrew,Female,40,Emergency,120.919.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717609761,Jerusalem,Water,Amharic,Female,46,Emergency,129.329.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717609281,Jerusalem,Medication,Hebrew,Male,34,Emergency,131.914.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717745642,Tel Aviv,Information,Russian,Female,12,Emergency,17.997.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717745277,Tel Aviv,Protection,Russian,Female,45,Emergency,35.383.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717744964,Tel Aviv,Evacuation,Russian,Female,43,Emergency,57.357.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717744428,Tel Aviv,Protection,Amharic,Female,54,Emergency,71.796.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717744677,Beer Sheva,Information,English,Male,43,Emergency,87.036.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717744209,Beer Sheva,Medication,Amharic,Female,54,Emergency,99.008.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717743968,Beer Sheva,Information,arabic,Male,18,Emergency,112.212.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600717743738,Tel Aviv,Protection,English,Female,18,Emergency,123.009.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718044090,Tel Aviv,Medication,Amharic,Male,45,Emergency,108.449.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718043426,Tel Aviv,Medication,Hebrew,Male,34,Emergency,113.817.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718164033,Beer Sheva,Evacuation,English,Male,23,Emergency,16.87.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718163313,Beer Sheva,Information,English,Male,33,Emergency,28.419.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718163041,Beer Sheva,Information,arabic,Male,34,Emergency,39.942.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718162755,Beer Sheva,Protection,arabic,Female,23,Emergency,53.447.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718162522,Beer Sheva,Information,Amharic,Female,23,Emergency,66.357.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718160190,Beer Sheva,Information,English,Female,18,Emergency,80.44.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718160029,Beer Sheva,Food,Amharic,Female,33,Emergency,97.034.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718159624,Beer Sheva,Medication,Russian,Male,18,Emergency,104.661.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718159410,Beer Sheva,Evacuation,Russian,Male,36,Emergency,116.679.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718159149,Beer Sheva,Information,English,Female,22,Emergency,128.997.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718158839,Jerusalem,Medication,Hebrew,Male,18,Emergency,131.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718292202,Tel Aviv,Medication,Hebrew,Female,55,Emergency,32.275.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718291794,Beer Sheva,Medication,Russian,Female,45,Emergency,34.842.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718291395,Jerusalem,Medication,arabic,Male,22,Emergency,36.532.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718291111,Jerusalem,Medication,arabic,Male,33,Emergency,37.785.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718351312,Jerusalem,Protection,Amharic,Male,33,Emergency,21.94.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718351562,Jerusalem,Medication,Hebrew,Male,18,Emergency,23.035.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718351833,Jerusalem,Medication,Hebrew,Male,18,Emergency,23.612.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718352116,Beer Sheva,Protection,Russian,Male,18,Emergency,30.923.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718352576,Tel Aviv,Water,English,Male,34,Emergency,41.132.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718352793,Tel Aviv,Protection,Hebrew,Male,34,Emergency,50.146.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718352999,Beer Sheva,Medication,Russian,Female,18,Emergency,58.751.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718353232,Jerusalem,Medication,Hebrew,Male,18,Emergency,59.483.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718353443,Beer Sheva,Protection,Hebrew,Female,18,Emergency,66.311.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718353646,Beer Sheva,Evacuation,Amharic,Female,34,Emergency,79.344.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718353845,Beer Sheva,Information,Amharic,Female,45,Emergency,90.442.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718354054,Beer Sheva,Information,Amharic,Male,44,Emergency,102.706.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718354369,Jerusalem,Medication,Hebrew,Male,119,Emergency,108.457.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718354742,Beer Sheva,Water,arabic,Female,32,Emergency,120.641.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718360328,Beer Sheva,Information,Russian,Female,78,Emergency,127.412.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718360538,Beer Sheva,Medication,Russian,Female,67,Emergency,140.763.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718360825,Jerusalem,Water,Hebrew,Male,67,Emergency,147.132.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718361114,Jerusalem,Protection,Amharic,Female,56,Emergency,156.298.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718361347,Jerusalem,Medication,Hebrew,Male,55,Emergency,160.698.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718361642,Jerusalem,Medication,Hebrew,Male,79,Emergency,169.036.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718361998,Tel Aviv,Water,Hebrew,Male,34,Emergency,179.913.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718362340,Beer Sheva,Water,Hebrew,Female,54,Emergency,193.049.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718362589,Beer Sheva,Water,Amharic,Female,51,Emergency,205.165.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718362772,Jerusalem,Protection,Russian,Male,45,Emergency,214.83.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718362938,Tel Aviv,Protection,English,Female,34,Emergency,225.973.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718363155,Jerusalem,Medication,Hebrew,Female,34,Emergency,234.326.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718363447,Tel Aviv,Protection,Hebrew,Male,35,Emergency,259.118.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718363258,Tel Aviv,Food,English,Female,35,Emergency,260.564.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600718883131,Jerusalem,Medication,Hebrew,Male,18,Emergency,1.498.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600767914005,Jerusalem,Medication,Hebrew,Male,18,Emergency,1.447.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600772173718,Jerusalem,Medication,Hebrew,Male,18,Emergency,1.193.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600772245828,Jerusalem,Medication,Hebrew,Male,18,Emergency,1.411.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600772262765,Jerusalem,Medication,Hebrew,Male,18,Emergency,1.145.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600772587162,Jerusalem,Medication,arabic,Female,133,Emergency,11.933.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600772710667,Tel Aviv,Medication,Hebrew,Female,120,Emergency,18.094.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600772711354,Tel Aviv,Medication,Hebrew,Male,120,Emergency,17.98.id,.city,.topic,.language,.gender,.age,.situation,.totalTime
+1600773436732,Jerusalem,Medication,Hebrew,Male,18,Emergency,14.139
